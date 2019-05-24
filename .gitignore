@@ -1,3 +1,5 @@
 *.class
 /HW5Web/out
 /HW5Web2/out
+/HW5Web/.idea
+/HW5Web2/.idea
